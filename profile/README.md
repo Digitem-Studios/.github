@@ -28,8 +28,8 @@ Digitem Studios es una iniciativa enfocada en el desarrollo de software y la opt
 ## Equipo Fundador
 
 * **Marc Martí Torralba**
-    * *Perfil:* Estudiante de Doble Grau en Enginyeria Informàtica i Grau en Enginyeria Electrònica de Telecomunicació.
+    * *Perfil:* Estudiante de Ingeniería Informática y Telecomunicaciones
 * **Edgar Angulo Barragán**
-    * *Perfil:* Estudiante de Doble Grau en Enginyeria Informàtica i Grau en Enginyeria de Sistemes de Telecomunicació.
+    * *Perfil:* Estudiante de Ingeniería Informática y Telecomunicaciones
 
 ---
